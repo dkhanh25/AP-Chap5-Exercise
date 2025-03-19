@@ -13,3 +13,6 @@ public class MoneyBookerAdapter extends MoneyBooker implements PaymentGatewayImp
         super.payMoney(amount);
     }
 }
+
+
+//this has no conflict
