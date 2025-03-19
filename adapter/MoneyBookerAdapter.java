@@ -14,3 +14,6 @@ public class MoneyBookerAdapter extends MoneyBooker implements PaymentGatewayImp
     }
 }
 //test merge main before merge
+
+
+//this has no conflict
